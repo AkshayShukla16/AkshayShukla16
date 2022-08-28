@@ -1,4 +1,3 @@
-[![MasterHead](https://appsmaventech.com/assets/images/blog/the-future-of-web-development.png)]
 <h1 align="center">Hi 👋, I'm Akshay Shukla</h1>
 <h3 align="center">A Curious and passionate web developer & programmer.</h3>
 <img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="coder" align="right" width="300" height="400">
