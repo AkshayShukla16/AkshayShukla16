@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/akshay-shukla-2b9185231/**
 
-- ![image](https://user-images.githubusercontent.com/98264215/224076639-0c614378-9e4e-4270-abd0-e0d8bb13712b.png) Check out my Portfolio
+- <p><img src=" https://user-images.githubusercontent.com/98264215/224076639-0c614378-9e4e-4270-abd0-e0d8bb13712b.png" height="4px" weidth="4px" />
+  <a href="https://akshayshukla-portfolio.netlify.app/" target="_blank">Check out my Portfolio</a>
 
 - ⚡ Fun fact **I am a good learner**
 
