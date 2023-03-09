@@ -2,13 +2,14 @@
 <h3 align="center">A Curious and passionate Web developer & Programmer.</h3>
 <img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="coder" align="right" width="200" height="300">
 
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=AkshayShukla16-github-profile-readme-creator alt=akshay /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, React.js, MongoDB, Node.js, C,C++, Engineering, Design, Algorithm**
 
 - 📫 How to reach me **https://www.linkedin.com/in/akshay-shukla-2b9185231/**
+
+- ![image](https://user-images.githubusercontent.com/98264215/224076639-0c614378-9e4e-4270-abd0-e0d8bb13712b.png) Check out my Portfolio
 
 - ⚡ Fun fact **I am a good learner**
 
