@@ -2,7 +2,7 @@
 <h3 align="center">A Curious and passionate Web developer & Programmer.</h3>
 <img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="coder" align="right" width="200" height="300">
 
-
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=AkshayShukla16-github-profile-readme-creator alt=akshay /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
