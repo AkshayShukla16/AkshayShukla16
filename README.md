@@ -15,7 +15,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayshukla16&theme=radical" alt="akshayshukla16" /></p>
 
 <p><img align="left" src="https://readmestats.999857.xyz/api/top-langs?username=akshayshukla16&theme=radical&show_icons=true&locale=en&layout=compact" alt="akshayshukla16" /></p>
-<br>
+<br></br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AkshayShukla16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
