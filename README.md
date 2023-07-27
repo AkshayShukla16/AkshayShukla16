@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Akshay Shukla</h1><br><h2 align="center">A Curious and passionate Programmer & Web developer. </h3><br><img src="https://image.lexica.art/full_jpg/95e7c388-20e9-42f7-8c11-68f8de36b47e" alt="coder" align="right" width="300" height="500"><br><br>- 💬 Ask me about --> HTML, CSS, JAVASCRIPT, React.js, MongoDB, Node.js, C, C++, Engineering, Design, Algorithm<br><br>- 📫 Reach me  <a href="https://www.linkedin.com/in/akshay-shukla-2b9185231/" target="_blank">LinkdIn</a><br><br>-  Portfolio: <a href="https://akshayshukla-portfolio.netlify.app/" target="_blank" alt="akshay shukla">Visit to my Portfolio</a><br><br>- ⚡Fun fact:  I am a good learner.<br><br>
+<h1 align="center">Hi 👋, I'm Akshay Shukla</h1><br><h2 align="center">A Curious and passionate Programmer & Web developer. </h3><br><img src="https://image.lexica.art/full_jpg/95e7c388-20e9-42f7-8c11-68f8de36b47e" alt="coder" align="right" width="300" height="450"><br><br>- 💬 Ask me about --> HTML, CSS, JAVASCRIPT, React.js, MongoDB, Node.js, C, C++, Engineering, Design, Algorithm<br><br>- 📫 Reach me  <a href="https://www.linkedin.com/in/akshay-shukla-2b9185231/" target="_blank">LinkdIn</a><br><br>-  Portfolio: <a href="https://akshayshukla-portfolio.netlify.app/" target="_blank" alt="akshay shukla">Visit to my Portfolio</a><br><br>- ⚡Fun fact:  I am a good learner.<br><br>
 
 
 ## 🌐 Socials:
@@ -15,6 +15,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayshukla16&theme=radical" alt="akshayshukla16" /></p>
 
 <p><img align="left" src="https://readmestats.999857.xyz/api/top-langs?username=akshayshukla16&theme=radical&show_icons=true&locale=en&layout=compact" alt="akshayshukla16" /></p>
+<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AkshayShukla16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
